@@ -1,3 +1,6 @@
+# ziOS X
+ziOS is no longer supported and will be replaced with ziOS X.
+
 # ziOS
 <img src="https://img.shields.io/badge/Milestone-3-green?style=flat-square"> <img src="https://img.shields.io/badge/Real%20Hardware-FAIL-red?style=flat-square">
 
